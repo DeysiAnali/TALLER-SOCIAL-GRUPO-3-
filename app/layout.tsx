@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'NexusRetail - Panel del Comerciante',
+  title: 'APP - Panel del Comerciante',
   description: 'Gestiona productos próximos a vencer y calcula estrategias de liquidación',
   generator: 'v0.app',
   manifest: '/manifest.json',
