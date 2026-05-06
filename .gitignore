@@ -14,3 +14,11 @@ next.user-config.*
 node_modules
 .next/
 .DS_Store
+
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+
+# Base de datos SQLite local
+bioshare.db

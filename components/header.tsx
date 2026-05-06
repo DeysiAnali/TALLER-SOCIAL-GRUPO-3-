@@ -10,7 +10,7 @@ export function Header() {
           </div>
           <div>
             <h1 className="text-xl font-bold text-foreground tracking-tight">
-              NexusRetail
+              App Mermas
             </h1>
             <p className="text-sm text-muted-foreground">
               Panel del Comerciante
