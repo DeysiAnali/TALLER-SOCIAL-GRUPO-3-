@@ -354,7 +354,7 @@ Este proyecto está bajo licencia **MIT**. Ver `LICENSE` para más detalles.
 
 - **Issues:** Usa GitHub Issues para reportar bugs
 - **Discussions:** Para preguntas y sugerencias
-- **Email:** [Tu email aquí]
+- **Email:** asdasdasd
 
 ---
 
